@@ -1,6 +1,5 @@
 """
-It have to tell trader to bay or not
-Neuron network MoneyMaker
+It is easy to experiment with neural-network, based on elementary elements
 """
 import math, random, numpy, sys, time, os
 from numpy import median
